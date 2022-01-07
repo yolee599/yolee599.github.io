@@ -2,14 +2,16 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://yolee599.github.io/cn/sitemap.xml</loc>
+    <loc>https://yolee599.github.io/blog/cn/sitemap.xml</loc>
     
       <lastmod>2022-01-06T14:45:31+08:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://yolee599.github.io/en/sitemap.xml</loc>
+    <loc>https://yolee599.github.io/blog/en/sitemap.xml</loc>
+    
+      <lastmod>2022-01-06T14:45:31+08:00</lastmod>
     
   </sitemap>
   

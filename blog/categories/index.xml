@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on My New Hugo Site</title>
-    <link>https://yolee599.github.io/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <title>Categories on Yolee599 的博客</title>
+    <link>https://yolee599.github.io/blog/categories/</link>
+    <description>Recent content in Categories on Yolee599 的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 06 Jan 2022 14:45:31 +0800</lastBuildDate><atom:link href="https://yolee599.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jan 2022 14:45:31 +0800</lastBuildDate><atom:link href="https://yolee599.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>杂技浅尝</title>
-      <link>https://yolee599.github.io/categories/%E6%9D%82%E6%8A%80%E6%B5%85%E5%B0%9D/</link>
+      <link>https://yolee599.github.io/blog/categories/%E6%9D%82%E6%8A%80%E6%B5%85%E5%B0%9D/</link>
       <pubDate>Thu, 06 Jan 2022 14:45:31 +0800</pubDate>
       
-      <guid>https://yolee599.github.io/categories/%E6%9D%82%E6%8A%80%E6%B5%85%E5%B0%9D/</guid>
+      <guid>https://yolee599.github.io/blog/categories/%E6%9D%82%E6%8A%80%E6%B5%85%E5%B0%9D/</guid>
       <description></description>
     </item>
     
