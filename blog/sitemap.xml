@@ -1,18 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://yolee599.github.io/blog/cn/sitemap.xml</loc>
-    
-      <lastmod>2022-01-06T14:45:31+08:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://yolee599.github.io/blog/en/sitemap.xml</loc>
-    
-      <lastmod>2022-01-06T14:45:31+08:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://yolee599.github.io/blog/categories/</loc>
+    <lastmod>2022-01-06T14:45:31+08:00</lastmod>
+  </url><url>
+    <loc>https://yolee599.github.io/blog/tags/hugo/</loc>
+    <lastmod>2022-01-06T14:45:31+08:00</lastmod>
+  </url><url>
+    <loc>https://yolee599.github.io/blog/posts/</loc>
+    <lastmod>2022-01-06T14:45:31+08:00</lastmod>
+  </url><url>
+    <loc>https://yolee599.github.io/blog/tags/</loc>
+    <lastmod>2022-01-06T14:45:31+08:00</lastmod>
+  </url><url>
+    <loc>https://yolee599.github.io/blog/</loc>
+    <lastmod>2022-01-06T14:45:31+08:00</lastmod>
+  </url><url>
+    <loc>https://yolee599.github.io/blog/categories/%E6%9D%82%E6%8A%80%E6%B5%85%E5%B0%9D/</loc>
+    <lastmod>2022-01-06T14:45:31+08:00</lastmod>
+  </url><url>
+    <loc>https://yolee599.github.io/blog/posts/first/</loc>
+    <lastmod>2022-01-06T14:45:31+08:00</lastmod>
+  </url><url>
+    <loc>https://yolee599.github.io/blog/archives.en/</loc>
+  </url><url>
+    <loc>https://yolee599.github.io/blog/categories.en/</loc>
+  </url><url>
+    <loc>https://yolee599.github.io/blog/search.en/</loc>
+  </url><url>
+    <loc>https://yolee599.github.io/blog/tags.en/</loc>
+  </url><url>
+    <loc>https://yolee599.github.io/blog/categories/</loc>
+  </url><url>
+    <loc>https://yolee599.github.io/blog/archives/</loc>
+  </url><url>
+    <loc>https://yolee599.github.io/blog/search/</loc>
+  </url><url>
+    <loc>https://yolee599.github.io/blog/tags/</loc>
+  </url>
+</urlset>
